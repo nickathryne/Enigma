@@ -1,0 +1,3 @@
+I've added an extension where pressing the RETURN button on the Enimga will print the encoded message in the terminal. This message is reset to an empty string after pressing the RETURN button, so after typing in a new message, it will only return that coded message in the terminal. 
+
+I've also added two addition rotor permutations. Clicking the numbered settings buttons below each rotor will set them to that permutation, the originals being what is loaded initially. These settings cannot be changed while a message is in progress. Returning the coded message via the RETURN button described above will allow for the rotor permutations to be changed and reset the rotor to the A position.
